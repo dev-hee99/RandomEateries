@@ -1,0 +1,15 @@
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\bin\Debug\RandomEatery.exe.config
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\bin\Debug\RandomEatery.exe
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\bin\Debug\RandomEatery.pdb
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\obj\Debug\RandomEatery.csprojAssemblyReference.cache
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\obj\Debug\MainWindow.g.cs
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\obj\Debug\App.g.cs
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\obj\Debug\RandomEatery_MarkupCompile.cache
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\obj\Debug\RandomEatery_MarkupCompile.lref
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\obj\Debug\MainWindow.baml
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\obj\Debug\RandomEatery.g.resources
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\obj\Debug\RandomEatery.Properties.Resources.resources
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\obj\Debug\RandomEatery.csproj.GenerateResource.cache
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\obj\Debug\RandomEatery.csproj.CoreCompileInputs.cache
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\obj\Debug\RandomEatery.exe
+C:\Users\devhee\source\repos\RandomEatery\RandomEatery\obj\Debug\RandomEatery.pdb

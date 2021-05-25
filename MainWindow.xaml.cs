@@ -27,6 +27,7 @@ namespace RandomEatery
     List<string> earr = new List<string>() {
       "영심이", "미담","한아름정식(백반)","편의점","더진국"
     };
+        //test
     
     public MainWindow()
     {
